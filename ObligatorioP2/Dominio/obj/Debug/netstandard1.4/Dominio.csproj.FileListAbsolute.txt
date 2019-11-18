@@ -1,0 +1,41 @@
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\Usuario\Desktop\ObligatorioP2-20191002T113142Z-001\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb

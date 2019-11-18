@@ -1,0 +1,15 @@
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.pdb
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.dll
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.pdb
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.dll
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.pdb
+C:\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.dll
+C:\ObligatorioP2\ObligatorioP2\DominioPosta\bin\Debug\DominioPosta.pdb
+C:\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.dll
+C:\ObligatorioP2\ObligatorioP2\DominioPosta\obj\Debug\DominioPosta.pdb

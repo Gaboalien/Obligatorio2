@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Login</h2>
+
+<form action="/Login/PerformLogin" method="post">
+    <div>
+        <label for="username">Usuario: </label>
+        <input type="text" name="username" value="" placeholder="Ingrese el usuario..." />
+    </div>
+    <div>
+        <label for="password">Contraseña: </label>
+        <input type="password" name="password" value="" placeholder="Ingrese la contraseña..." />
+    </div>
+    <div>
+        <input type="submit" value="Log In" />
+    </div>
+</form>
+<h2 class="mensajeError">@ViewBag.ErrMsg</h2>
+

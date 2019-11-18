@@ -1,0 +1,40 @@
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe.config
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.pdb
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.dll
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.pdb
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.exe
+C:\Users\Maximiliano\Documents\Visual Studio 2017\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe.config
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe.config
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.pdb
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.dll
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\bin\Debug\Dominio.pdb
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.exe
+C:\Users\Maximiliano\Documents\ObligatorioP2-Modificado\ObligatorioP2-Modificado\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe.config
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\bin\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.exe
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\bin\Debug\DominioPosta.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP2\ObligatorioP2\ObligatorioP2\bin\Debug\DominioPosta.pdb
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csprojAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.exe
+C:\Users\alumnoFI\Downloads\E-249003-RAIMONDO-18133\ObligatorioP2\ObligatorioP2\ObligatorioP2\obj\Debug\ObligatorioP2.pdb
